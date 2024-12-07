@@ -41,7 +41,7 @@ def main():
 | |___|  _  | (_) | | | |  __/ |_| |
 |_____|_| |_|\___/|_| |_|\___|\__, |
                               |___/
-{Fore.LIGHTWHITE_EX}     [Tool created by MrEmpy]
+{Fore.LIGHTWHITE_EX}     [Tool created by Brosck]
            [Version {version}]''')          
 
     banner()
