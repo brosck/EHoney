@@ -40,7 +40,7 @@ In addition, EHoney offers some advantages to have a good result in the search f
 #### Linux:
 
 ```
-$ git clone https://github.com/MrEmpy/EHoney.git
+$ git clone https://github.com/Brosck/EHoney.git
 $ cd EHoney
 $ chmod +x EHoney.py
 $ pip install -r requirements.txt
@@ -50,7 +50,7 @@ $ ./EHoney.py
 #### Termux:
 
 ```
-$ git clone https://github.com/MrEmpy/EHoney.git
+$ git clone https://github.com/Brosck/EHoney.git
 $ cd EHoney
 $ cd termux
 $ chmod +x EHoney.py
